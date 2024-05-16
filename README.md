@@ -36,6 +36,8 @@ lerapi:
   client:
     access-key: ler
     secret-key: asdfghjk
+```
+```xml
 <dependency>
     <groupId>com.ler</groupId>
     <artifactId>lerapi-client-sdk</artifactId>
