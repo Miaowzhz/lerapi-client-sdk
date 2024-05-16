@@ -19,9 +19,8 @@ sdk开发入门
 ...
 
 指定目录
+
 ![image](https://github.com/Miaowzhz/lerapi-client-sdk/assets/138358376/c4df512e-e5df-48e5-aa23-8af3243ff5a4)
-
-
 ```xml
 # spring boot starter
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.ler.lerapiclientsdk.LerApiClientConfig
