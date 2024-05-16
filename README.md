@@ -30,13 +30,6 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.ler.lerapicli
 ![img](https://cdn.nlark.com/yuque/0/2024/png/40918944/1715750498363-68cdb012-a65a-43d9-859d-0e6c1aa31b6d.png)
 
 5、引入依赖
-
-```yaml
-lerapi:
-  client:
-    access-key: ler
-    secret-key: asdfghjk
-```
 ```xml
 <dependency>
     <groupId>com.ler</groupId>
@@ -44,4 +37,10 @@ lerapi:
     <version>0.0.1</version>
 </dependency>
 ```
-
+6、配置信息
+```yaml
+lerapi:
+  client:
+    access-key: ler
+    secret-key: asdfghjk
+```
